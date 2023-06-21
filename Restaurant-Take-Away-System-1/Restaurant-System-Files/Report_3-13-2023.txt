@@ -1,0 +1,6 @@
+Report for the day!
+	* Total no of orders that have been booked: 1
+	* Total income for the day: $24.19
+	* Most popular cuisine: Chinese
+	* Most popular item from the menu: Fish And Chips
+	* Most loyal customers: Kellby Cordell

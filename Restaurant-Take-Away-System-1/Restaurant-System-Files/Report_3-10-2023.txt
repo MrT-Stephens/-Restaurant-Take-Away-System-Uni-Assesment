@@ -1,0 +1,6 @@
+Report for the day!
+	* Total no of orders that have been booked: 1
+	* Total income for the day: $19.92
+	* Most popular cuisine: French
+	* Most popular item from the menu: Laundry - Bag Cloth
+	* Most loyal customers: Kellby Cordell
