@@ -9,6 +9,7 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
+  <a href="#breif">Breif</a> •
   <a href="#how-to-use">How To Use</a>
 </p>
 
@@ -25,5 +26,11 @@
   - Customers will get inputted and outputted.
   - Menu Items will get inputted and outputted.
   - Orders will get outputted.
- 
+* User input validation.
+  
+
+## Breif
+
+
+
 ## How To Use
