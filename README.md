@@ -12,7 +12,7 @@
   <a href="#how-to-use">How To Use</a>
 </p>
 
-![screenshot](https://github.com/MrT-Stephens/Restaurant-Take-Away-System-Uni-Assesment/blob/master/Images/Restaurant-Take-Away-System-Main.gif)
+![screenshot](https://github.com/MrT-Stephens/Restaurant-Take-Away-System-Uni-Assessment/blob/master/Images/Restaurant-Take-Away-System-Main.gif)
 
 ## Key Features
 
@@ -28,8 +28,8 @@
 * User input validation.
   - The application has a multitude of different validations built in. Examples below:
 
-![screenshot](https://github.com/MrT-Stephens/Restaurant-Take-Away-System-Uni-Assesment/blob/master/Images/User-Input-Validation-1.gif)
-![screenshot](https://github.com/MrT-Stephens/Restaurant-Take-Away-System-Uni-Assesment/blob/master/Images/User-Input-Validation-2.gif)
+![screenshot](https://github.com/MrT-Stephens/Restaurant-Take-Away-System-Uni-Assessment/blob/master/Images/User-Input-Validation-1.gif)
+![screenshot](https://github.com/MrT-Stephens/Restaurant-Take-Away-System-Uni-Assessment/blob/master/Images/User-Input-Validation-2.gif)
 
 ## How To Use
 
@@ -42,3 +42,5 @@ $ git clone https://github.com/MrT-Stephens/Restaurant-Take-Away-System-Uni-Asse
 # Go into the repository
 $ cd Restaurant-Take-Away-System-Uni-Assessment
 ```
+> **Note**
+> Open the '.sln' once cloned as this will open the project directly in [Visual Studio](https://visualstudio.microsoft.com/).
