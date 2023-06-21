@@ -12,4 +12,4 @@
   <a href="#how-to-use">How To Use</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/MrT-Stephens/Restaurant-Take-Away-System-Uni-Assesment/blob/master/Images/Restaurant-Take-Away-System-Main.gif)
+![screenshot](https://raw.github.com/MrT-Stephens/Restaurant-Take-Away-System-Uni-Assesment/blob/master/Images/Restaurant-Take-Away-System-Main.gif)
