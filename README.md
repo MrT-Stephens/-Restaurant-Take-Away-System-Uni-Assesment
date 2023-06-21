@@ -9,7 +9,6 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#breif">Breif</a> •
   <a href="#how-to-use">How To Use</a>
 </p>
 
@@ -27,10 +26,19 @@
   - Menu Items will get inputted and outputted.
   - Orders will get outputted.
 * User input validation.
-  
+  - The application has a multitude of different validations built in. Examples below:
 
-## Breif
-
-
+![screenshot](https://github.com/MrT-Stephens/Restaurant-Take-Away-System-Uni-Assesment/blob/master/Images/User-Input-Validation-1.gif)
+![screenshot](https://github.com/MrT-Stephens/Restaurant-Take-Away-System-Uni-Assesment/blob/master/Images/User-Input-Validation-2.gif)
 
 ## How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Visual Studio](https://visualstudio.microsoft.com/). You can either clone the respiratory directly in [Visual Studio](https://visualstudio.microsoft.com/) or run this in your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/MrT-Stephens/Restaurant-Take-Away-System-Uni-Assessment
+
+# Go into the repository
+$ cd Restaurant-Take-Away-System-Uni-Assessment
+```
